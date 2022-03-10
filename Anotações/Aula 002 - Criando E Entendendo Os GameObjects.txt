@@ -1,0 +1,6 @@
+O QUE É UM GAMEOBJECT?
+	- São Objetos Que Formam E Representam Alguma Determinada Coisa Do Jogo.
+
+COMO CRIAR/ADICIONAR UM GAMEOBJECT:
+	1 - Na Janela Hierarchy, Clicar No Botão <+\/>.
+	2 - Clique Com O Botão Direito Do Mouse, Em Um Local Vazio, Da Janela Hierarchy.

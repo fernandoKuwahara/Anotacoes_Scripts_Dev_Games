@@ -1,0 +1,32 @@
+O QUE É PREFAB?
+	- Prefab É A Referência De Um GameObject, Com O Objetivo De Trabalhar Com Ele Mais De Uma Vez.
+
+O QUE O MÉTODO INSTANTIATE FAZ?
+	- O Método Instantiate Cria Um Clone Do Prefab, Para Que Assim Não Precise Usar Mais De Um GameObejct, Sendo Assim Pesando A Cena Do Game(Projeto), Demandando Mais Processamento Seja Utilizado.
+
+O QUE O MÉTODO DESTROY FAZ?
+	- O Método Destroy Serve Para Deletar O Prefab Depois Que Ele Já Foi Usado Para Algum Determinado Objetivo.
+
+ANÁLISE:
+
+	Instantiate(<GameObject> , <Posição De Spawn> , <Rotação Do GameObject>);
+	     |           |                  |                       |
+	    \ /          |                  |                       |
+       Chama O Método    |                  |                       |
+                        \ /                 |                       |
+              O Prefab Para Ser Clonado     |                       |
+                                           \ /                      |
+                                Transform Contendo Posição          |
+                                      Ou Um Vector3                \ /
+                                                        Transform Contendo Rotação
+                                                             Ou Um Quartenion
+
+	Destroy(<GameObject> , <Intervalo De Tempo>);
+	   |           |                  |
+	  \ /          |                  |
+     Chama O Método    |                  |
+                      \ /                 |
+            O Prefab Para Ser Deletado    |
+                                         \ /
+                               Algum Valor Para Intervalo
+				Exemplo: 2f = 2 Segundos                                      

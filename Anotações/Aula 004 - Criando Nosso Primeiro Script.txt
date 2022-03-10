@@ -1,0 +1,15 @@
+O QUE É UM SCRIPT?
+	- Script É Um Arquivo .cs Que A Unity Compila E Interpreta Como Arquivo De Programação.
+
+AONDE O SCRIPT ATUA?
+	- O Script É Adicionado A Um GameObject Como Um Componente, Contendo As Regras De Como O GameObject Irá Funcionar No Jogo.
+
+EXEMPLO:
+	- Um Script Para O Player/Jogador, Irá Conter As Regras Para Que Ele Possa Andar, Pular, Agachar, Atacar e Dentre Outros Comandos.
+
+COMO CRIAR UM SCRIPT:
+	- 1º Opção: Crie Um GameObject E O Selecione Na Janela Hierarchy, Em Seguida Na Janela Inspector, Clique Em Add Component*, New Script* E Por Fim, Create And Add*.
+	- 2º Opção: Na Janela Project, Na Pasta Assets Clique Com O Botão Direito Do Mouse, Em Uma Livre, Depois Clique Em Create*, C# Script*.
+
+OBS:*
+   A Unity Está Usando O Inglês Como Padrão Linguagem Padrão.

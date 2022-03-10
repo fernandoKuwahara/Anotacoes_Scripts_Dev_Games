@@ -1,0 +1,9 @@
+O QUE SÃO COMPONENTES?
+	- Os Componentes De Um GameObject São O Que Determinam, O Que Será O GameObject Na Cena.
+
+O QUE UM COMPONENTE FAZ?
+	- Atribui Um Comportamento A Um GameObject.
+
+EXEMPLOS:
+	- Rigisbody: Atribui A Um GameObject Uma Fisíca, Como Massa E O Uso De Gravidade No Objeto.
+	- Box Collider: Um Tipo De Componente Que Atribui Um Colisor Ao GameObject.

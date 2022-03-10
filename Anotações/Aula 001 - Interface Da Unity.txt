@@ -1,0 +1,10 @@
+JANELAS: 
+	- Project: Controle Dos Arquivos Do Projeto, Que São Eles, Assets, Scripts, Sons, Animações, Prefabs e Dentre Outros.
+	- Console: Voltado Principalmente Para Scripts, Com A Função De Debugs, Warnings E Alerts.
+	- Hierarchy: Contém E Faz O Gerenciamento De Todos Os GameObjects Do Projeto E Da Janela Scene.
+	- Scene: Gerenciamento E Posicionamento Dos GameObjects, Sendo Feito De Maneira Manual. Basicamente, É Aonde Monta As Fases Do Jogo.
+	- Game: Pré-Visualização Em Tempo Real Do Jogo, Serve Também Para Realizar Testes De Mecânica, Game Design(Level-Design) E Testar Em Si O Game.
+	- Inspector: Gerenciamento E Controle Dos Componentes Nos GameObjects, Que São Os Objetos Da Janela Hierarchy.
+
+OBS:
+   - Todo GameObject Possui O Componente Transform, Responsável Por Possuir As Medidas Position, Rotation E Scale.

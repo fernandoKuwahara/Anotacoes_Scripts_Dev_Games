@@ -1,0 +1,18 @@
+SCROLL DO MOUSE:
+	- Rolar O Scroll Do Mouse, Faz Com Que Se Aproxime Ou Se Afaste Do GameObject Selecionado.
+	- Segurar O Scroll Do Mouse, Possibilita Se Movimentar Pela Cena Do Seu Jogo.
+
+TECLADO:
+	- Pré-Selecionado Um GameObject, Se Estiver Muito Longe Deste Objeto, Clique Na Tecla <F> Para Se Aproximar Do Objeto. 
+	- Tecla <Q>, Ferramenta De Movimentação.
+	- Tecla <W>, Ferramenta Do Position.
+	- Tecla <E>, Ferramenta Do Rotation.
+	- Tecla <R>, Ferramenta Do Scale.
+	- Tecla <T>, Ferramenta Do Scale Para Jogos 2D.
+	- Tecla <Y>, Ferramenta Do Position, Rotation e Scale.
+	- Teclas <Ctrl + D>, Duplica Um GameObject.
+
+SITES PARA ASSETS:
+	- https://opengameart.org/
+	- https://free3d.com/
+	- (Melhor Site) https://assetstore.unity.com/
